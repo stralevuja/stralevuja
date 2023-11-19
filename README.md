@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stralevuja
-- 👀 I’m interested in coding and IOT stuff
-- 🌱 I’m currently learning C,C++,HTML/CSS/JS
+- 🌱 I’m currently learning C++, HTML/CSS/JS, Swift and Webflow
 
 <!---
 stralevuja/stralevuja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
