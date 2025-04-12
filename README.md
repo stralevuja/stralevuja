@@ -13,7 +13,7 @@ Outside of academics, I am passionate about photography and a devoted fan of For
 
 **Languages:** HTML, CSS, JavaScript  
 **Web Development:** Bootstrap  
-**Learning:** Cybersecurity (Cisco NetAcad)  
+**Learning:** Cybersecurity and Networking (Cisco NetAcad)  
 **Tools:** Git, Linux, macOS
 
 ## 🎨 Projects
