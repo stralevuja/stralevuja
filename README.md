@@ -25,7 +25,7 @@ Outside of tech, I’m passionate about motorsports, especially **Formula 1**, w
 
 ## 🎨 Projects
 
-Personal Homelab Setup
+Personal Homelab Setup  
 Holiday Home Website  
 Graphic Design Work
 
