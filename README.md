@@ -1,23 +1,31 @@
 # Hi there, I'm Strahinja 👋
 
-High School Student | Computer Science & Programming | Web & Graphic Design | Software Development
+CS Student | Full-Stack & Systems Enthusiast | Networking Learner
 
 ## 📚 About Me
 
-I am a high school student specializing in computer science and programming, with a passion for web design, graphic design, and software development.  
-I have hands-on experience creating websites using HTML, CSS, JavaScript, and Bootstrap, and I continuously strive to expand my technical skills and knowledge.  
-Looking ahead, I am eager to pursue a career in computer science, where I can combine creativity and problem-solving to develop impactful solutions.  
-Outside of academics, I am passionate about photography and a devoted fan of Formula 1 and motorsport.  
+I’m a Computer Science student at the Faculty of Electrical Engineering, University of Banja Luka.  
+My main interests lie in **system engineering, networking, and IT infrastructure**, where I enjoy building, configuring, and optimizing systems that make technology reliable and efficient.  
+
+I also explore **web development** as a creative outlet — blending design and logic to deliver clean, functional solutions.  
+
+Currently, I’m diving deeper into:  
+- Networking fundamentals (Cisco NetAcad, CCST/CCNA prep)  
+- Linux & Windows Server administration  
+- Cloud and virtualization technologies  
+
+Outside of tech, I’m passionate about motorsports, especially **Formula 1**, which inspires my focus on precision, performance, and constant improvement.  
 
 ## 👨‍💻 Tech Stack
 
 **Languages:** HTML, CSS, JavaScript  
 **Web Development:** Bootstrap  
-**Learning:** Cybersecurity and Networking (Cisco NetAcad)  
-**Tools:** Git, Linux, macOS
+**Learning:** Networking, System Administration, Virtualization  
+**Tools:** Git, Linux, macOS, Windows Server
 
 ## 🎨 Projects
 
+Personal Homelab Setup
 Holiday Home Website  
 Graphic Design Work
 
