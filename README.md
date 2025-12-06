@@ -18,7 +18,7 @@ Outside of tech, I’m passionate about motorsports, especially **Formula 1**, w
 
 ## 👨‍💻 Tech Stack
 
-**Languages:** HTML, CSS, JavaScript  
+**Languages:** HTML, CSS, JavaScript, C  
 **Web Development:** Bootstrap  
 **Learning:** Networking, System Administration, Virtualization  
 **Tools:** Git, Linux, macOS, Windows Server
